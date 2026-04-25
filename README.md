@@ -1,5 +1,6 @@
-<h2>🎓 Certificado de Egresado</h2>
-<p>Egresado de la carrera de Computación e Informática.</p>
+<h2 align="center">🎓 Certificado de Egresado</h2>
+<p align="center">Egresado de la carrera de Computación e Informática.</p>
 
-<img src="Diploma-de-Egresado.jpg" width="500" style="transform: rotate(90deg);">
-
+<p align="center">
+  <img src="Diploma-de-Egresado.jpg" width="700">
+</p>
